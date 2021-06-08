@@ -6,7 +6,7 @@ class01 | [introduction to react and components](IntroToReact&Components)
 
 class02 | [state and props](StateAndProps)
 
-class03 | []()
+class03 | [Passing Functions as Props](PassingFunctionsAsProps)
 
 class04 | []()
 
