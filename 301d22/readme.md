@@ -10,7 +10,7 @@ class03 | [Passing Functions as Props](PassingFunctionsAsProps)
 
 class04 | [React and Forms](ReactAndForms)
 
-class05 | []()
+class05 | [Putting it all together ](PuttingItAllTogether )
 
 class06 | []()
 
