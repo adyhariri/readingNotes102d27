@@ -2,8 +2,7 @@ class number | component
 
 ----------------------
 
-class01 | [introduction to react and components](IntroToReact&Components)
-
+class01 | [introduction to react and components](IntroToReact&Components)  
 class02 | [state and props](StateAndProps)
 
 class03 | [Passing Functions as Props](PassingFunctionsAsProps)
@@ -12,7 +11,7 @@ class04 | [React and Forms](ReactAndForms)
 
 class05 | [Putting it all together ](PuttingItAllTogether )
 
-class06 | []()
+class06 | [node.js and pair programming](nodeJS&PairProgramming)
 
 class07 | []()
 
