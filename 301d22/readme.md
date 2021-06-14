@@ -13,7 +13,7 @@ class05 | [Putting it all together ](PuttingItAllTogether )
 
 class06 | [node.js and pair programming](nodeJS&PairProgramming)
 
-class07 | []()
+class07 | [REST](REST)
 
 class08 | []()
 
