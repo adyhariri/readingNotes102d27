@@ -5,8 +5,8 @@ and you will learn alot
 
 
 
-[102](102/readme)
+[102](102/readme.md)
 
-[201](201/readme)
+[201](201/readme.md)
 
-[301d22](301d22/readme)
+[301d22](301d22/readme.md)
